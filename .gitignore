@@ -1,0 +1,6 @@
+LANStream.xcodeproj/xcuserdata/
+LANStream.xcodeproj/project.xcworkspace/xcuserdata/
+/build/
+.DS_Store
+DerivedData/
+*.dmg
